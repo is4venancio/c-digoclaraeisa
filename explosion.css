@@ -1,0 +1,14 @@
+/* estilos em css para os elementos em html */
+body {
+  background-color: #fefae0;
+}
+h1 {
+  color: #ffb5a7;
+  text-decoration: solid;
+  text-align: center;
+  border: #3806ec;
+}
+p {
+  color: #f4978e;
+  text-align: center;
+}
